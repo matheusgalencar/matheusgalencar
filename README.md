@@ -28,25 +28,8 @@
 
 # 👨‍🚀 Sobre mim
 
-```java
-public class MatheusAlencar {
-
-    String role = "Software Engineer";
-
-    String company = "Credliber";
-
-    String[] stack = {
-        "Java",
-        "Spring Boot",
-        "JavaScript",
-        "MySQL",
-        "DevOps"
-    };
-}
-```
-
 💼 Atualmente atuando como Engenheiro de Software na **Credliber**  
-⚙️ Experiência com APIs REST, microsserviços e arquitetura backend  
+⚙️ Experiência com APIs REST, microsserviços, DevOps, Banco de Dados MySql e arquitetura backend  
 🚀 Focado em performance, escalabilidade e boas práticas de desenvolvimento  
 
 ---
@@ -63,8 +46,6 @@ public class MatheusAlencar {
 </div>
 
 ---
-
-# 📊 GitHub Stats
 
 # 📊 GitHub Stats
 

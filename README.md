@@ -50,7 +50,7 @@ public class MatheusAlencar {
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Stacks
 
 <div align="center">
 
@@ -58,10 +58,6 @@ public class MatheusAlencar {
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 </div>
 
@@ -99,10 +95,4 @@ public class MatheusAlencar {
   📸 @matheus.alencar__
 </a>
 
-</p>
-
----
-
-<p align="center">
-  ⚡ Transformando café em código ☕
 </p>

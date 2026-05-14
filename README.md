@@ -73,23 +73,3 @@ public class MatheusAlencar {
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&langs_count=7&theme=tokyonight"/>
 
 </div>
-
----
-
-# 🌐 Contato
-
-<p align="center">
-  
-  <a href="https://matheusalencar.dev.br" target="_blank">
-    <img src="https://img.shields.io/badge/Website-matheusalencar.dev.br-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/matheus-goulart-alencar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Matheus%20Alencar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://www.instagram.com/matheus.alencar__/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@matheus.alencar__-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-
-</p>

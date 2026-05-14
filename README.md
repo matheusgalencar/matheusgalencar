@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Matheus Alencar</h1>
 
 <p align="center">
-  Engenheiro de Software • Backend • DevOps • Java Ecosystem
+  Engenheiro de Software
 </p>
 
 <p align="center">

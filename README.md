@@ -28,10 +28,11 @@
 
 # 👨‍🚀 Sobre mim
 
-
+```java
 public class MatheusAlencar {
 
     String role = "Software Engineer";
+
     String company = "Credliber";
 
     String[] stack = {
@@ -39,10 +40,10 @@ public class MatheusAlencar {
         "Spring Boot",
         "JavaScript",
         "MySQL",
-        "DevOps",
+        "DevOps"
     };
 }
-
+```
 
 💼 Atualmente atuando como Engenheiro de Software na **Credliber**  
 ⚙️ Experiência com APIs REST, microsserviços e arquitetura backend  
@@ -67,9 +68,9 @@ public class MatheusAlencar {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&langs_count=7&theme=tokyonight"/>
 
 </div>
 
@@ -78,21 +79,17 @@ public class MatheusAlencar {
 # 🌐 Contato
 
 <p align="center">
+  
+  <a href="https://matheusalencar.dev.br" target="_blank">
+    <img src="https://img.shields.io/badge/Website-matheusalencar.dev.br-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
 
-<a href="https://matheusalencar.dev.br" target="_blank">
-  🌍 matheusalencar.dev.br
-</a>
+  <a href="https://www.linkedin.com/in/matheus-goulart-alencar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Matheus%20Alencar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<br><br>
-
-<a href="https://www.linkedin.com/in/matheus-goulart-alencar/" target="_blank">
-  💼 linkedin.com/in/matheus-goulart-alencar
-</a>
-
-<br><br>
-
-<a href="https://www.instagram.com/matheus.alencar__/" target="_blank">
-  📸 @matheus.alencar__
-</a>
+  <a href="https://www.instagram.com/matheus.alencar__/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@matheus.alencar__-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 
 </p>

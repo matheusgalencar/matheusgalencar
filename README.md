@@ -1,11 +1,5 @@
 <h1 align="center">👨‍💻 Matheus Alencar</h1>
 
-<p align="center">
-  Engenheiro de Software
-</p>
-
----
-
 ---
 
 # 👨‍🚀 Sobre mim

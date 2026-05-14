@@ -20,8 +20,6 @@
 
 ---
 
-## 👾 Pacman Contribution Graph
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="pacman contribution graph">
 </p>
@@ -30,7 +28,7 @@
 
 # 👨‍🚀 Sobre mim
 
-```java
+
 public class MatheusAlencar {
 
     String role = "Software Engineer";
@@ -42,12 +40,9 @@ public class MatheusAlencar {
         "JavaScript",
         "MySQL",
         "DevOps",
-        "Docker",
-        "Git",
-        "Linux"
     };
 }
-```
+
 
 💼 Atualmente atuando como Engenheiro de Software na **Credliber**  
 ⚙️ Experiência com APIs REST, microsserviços e arquitetura backend  

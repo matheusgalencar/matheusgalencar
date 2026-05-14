@@ -28,9 +28,12 @@
 
 # 👨‍🚀 Sobre mim
 
-💼 Atualmente atuando como Engenheiro de Software na **Credliber**  
-⚙️ Experiência com APIs REST, microsserviços, DevOps, Banco de Dados MySql e arquitetura backend  
-🚀 Focado em performance, escalabilidade e boas práticas de desenvolvimento  
+💼 Engenheiro de Software na **Credliber** com foco em gestão de projetos e evolução de sistemas  
+📊 Atuação voltada ao gerenciamento de demandas, organização de fluxos e acompanhamento de desenvolvimentos  
+🚀 Experiência na condução de aplicações escaláveis, arquitetura de sistemas e melhoria contínua de processos  
+⚙️ Participação estratégica na definição de soluções, integrações e sustentação de ambientes corporativos  
+🛠️ Forte proximidade com backend, bancos de dados e ecossistema DevOps para apoiar decisões técnicas  
+📈 Focado em performance operacional, escalabilidade e entregas eficientes
 
 ---
 

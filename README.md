@@ -6,10 +6,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="pacman contribution graph">
-</p>
-
 ---
 
 # 👨‍🚀 Sobre mim
@@ -37,6 +33,14 @@
 <img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
 
 </div>
+
+---
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="pacman contribution graph">
+</p>
 
 ---
 
